@@ -457,13 +457,13 @@ export default function Portfolio() {
             </p>
             
             <div className="flex justify-center gap-6 mb-12">
-              <a href="#" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
+              <a href="https://github.com/NaaluZeroNaalu" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
                 <Github size={28} />
               </a>
-              <a href="#" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
+              <a href="https://www.linkedin.com/in/ajithkumarr2000?" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
                 <Linkedin size={28} />
               </a>
-              <a href="#" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
+              <a href="mailto:ajithruflex1210@gmail.com" className="p-4 bg-blue-100/80 backdrop-blur-sm text-blue-600 rounded-xl hover:bg-blue-200 hover:shadow-lg hover:shadow-blue-500/30 transition-all hover:scale-110 border border-blue-200">
                 <Mail size={28} />
               </a>
             </div>
